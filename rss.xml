@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[hadjiev.me Grid]]></title>
-        <description><![CDATA[hadjiev.me Grid]]></description>
-        <link>https://thegrid.ai/hadjievme-grid/</link>
+        <title><![CDATA[Veselin Hadjiev]]></title>
+        <description><![CDATA[Veselin Hadjiev]]></description>
+        <link>http://hadjiev.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 16:58:32 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/hadjievme-grid/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Photos of Various Food Dishes Flying Through the Air]]></title>
-            <description><![CDATA[<article><h1>Photos of Various Food Dishes Flying Through the Air</h1><p>Camden, London-based commercial still life photographer Piotr Gregorczyk likes to play with food and gravity. One concept he has focused on for a number of recent projects is the idea of showing various food dishes flying through the air as they come together on a plate or in a bowl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea61b8e6e7eb14f53652b069cde3df0e37aa5826.jpg"></article>]]></description>
-            <link>http://petapixel.com/2015/08/05/photos-of-various-food-dishes-flying-through-the-air/</link>
-            <guid isPermaLink="false">04fcad01-e356-4525-b9c1-f0565396b5e4</guid>
-            <pubDate>Sun, 07 Aug 2016 16:58:30 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 18 Aug 2016 02:22:13 GMT</lastBuildDate>
+        <atom:link href="http://hadjiev.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Timbuk2 + Blue Bottle's Sabbatical Travel Kit]]></title>
             <description><![CDATA[<article><h1>Timbuk2 + Blue Bottle's Sabbatical Travel Kit</h1><p>If the recent buyouts of Intelligentsia and Stumptown are any indication, the growing popularity of craft coffee shows no signs of slowing down. While single origin pour-overs are now commonplace in many coffeeshops, sometimes when you're off the beaten path, your morning cup of coffee is harder to perfect.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d979f42e1fe163d4ad2ae387a8da167c/croprotate.jpg?cropheight=861&cropwidth=1576&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fba000655e6b2a554855a55a3bfaa786ed97ccb09.jpg&x=0&y=0"></article>]]></description>
