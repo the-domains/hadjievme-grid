@@ -1,14 +1,14 @@
-layout_spectrum: 0.8761512557975948
-typography_spectrum: 0.1446116892620921
+layout_spectrum: 0.6711988102179021
+typography_spectrum: 0.7706704214215279
 color:
-  brandStrength: 0.5150684844702482
-  lightness: 0.5792406320106238
-  saturation: 0.8189233657903969
-  rhythmicContrast: 0.08305615046992898
+  brandStrength: 0.1916708992794156
+  lightness: 0.9436911966186017
+  saturation: 0.5996969458647072
+  rhythmicContrast: 0.5922263427637517
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Veselin Hadjiev
